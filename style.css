@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-image: url(img/istockphoto-657097086-612x612.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 800px;
+}
+
